@@ -86,7 +86,7 @@ CNN gave really good results on test dataset. Details can be found in the pictur
 
 ## MLP
 
-Since RNN gave good results, I decided to experiment with NNs a little bit more. In that part MLP has been used trained on original data based on histograms.
+Since CNN gave good results, I decided to experiment with NNs a little bit more. In that part MLP has been used trained on original data based on histograms.
 
 ![image](https://user-images.githubusercontent.com/94312553/222430881-5020783e-9d21-4f83-8cce-deaddc15f5f7.png)
 ![image](https://user-images.githubusercontent.com/94312553/222430916-58f2867f-ed7b-40af-ada9-ae8162f9c3e0.png)
@@ -97,6 +97,6 @@ In that case training process were not stable at all, so result might be mislead
 
 ## Conclusion
 
-RNN seems to be the most suitable for this type of scenarions (not really suprising), but result of classical approches might be usefull as well, especially considering the facts that it takes much more time to train this model and it uses much less computing power.
+CNN seems to be the most suitable for this type of scenarions (not really suprising), but result of classical approches might be usefull as well, especially considering the facts that it takes much more time to train this model and it uses much less computing power.
 
 
